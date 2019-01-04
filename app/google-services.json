@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815173201935",
+    "firebase_url": "https://room-automation-e1f83.firebaseio.com",
+    "project_id": "room-automation-e1f83",
+    "storage_bucket": "room-automation-e1f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815173201935:android:01b2b5a51e100094",
+        "android_client_info": {
+          "package_name": "com.smartroom.smartroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815173201935-jobc3r5nev3upb8g755iu45h4emrh24l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartroom.smartroom",
+            "certificate_hash": "e0fe784030a957319e3e18db294705cfced06399"
+          }
+        },
+        {
+          "client_id": "815173201935-febti4vulapmce30q4do3f4aascgmp40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMeTigqIrd0nVgiy5BL88jEWpprEHY4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815173201935-m05u03ur468hko3u84mn483osm3a6jhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
